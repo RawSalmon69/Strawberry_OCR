@@ -30,6 +30,10 @@ Image Detection using StrawDi database with image tracking
 
 Download the StrawDI dataset from [here](https://drive.google.com/file/d/1elFB-q9dgPbfnleA7qIrTb96Qsli8PZl/view) and change its name to dataset.zip and upload it to the colab files following instructions below (if the downloaded file is .rar, convert it to .zip with an app. DONT JUST CHANGE THE EXTENSION)
 
+ALSO MAKE SURE THAT 'test', 'train', 'val' folders are directly in side the .zip eg. dataset/test when extracted and not 'dataset/dataset/test'. look at example image if unsure
+
+![image](https://github.com/user-attachments/assets/226a1e8d-4492-436d-beaf-62f515f280ef)
+
 1) Import tracking.ipynb to Google Colab workspace and upload additional required files.  Example in the following picture (ignore gdrive, it will be added later through running the code)
 
 ![image](https://github.com/user-attachments/assets/41d2eccf-3bf8-4500-b144-b8b28723f0d0)
